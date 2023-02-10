@@ -2,7 +2,7 @@
  
 Official Code Repository for "Continual Learning with Scaled Gradient Projection", AAAI 2023 (accepted).
  
-[[Paper]]()
+[[Paper]](https://arxiv.org/abs/2302.01386)
  
 Codes will be uploaded soon ...
 
