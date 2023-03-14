@@ -1,0 +1,17 @@
+matplotlib==3.5.2
+numpy==1.22.3
+pickleshare==0.7.5
+opencv==4.5.5
+Pillow==9.2.0
+scikit-learn==1.1.1
+scipy==1.8.1
+tqdm==4.64.0
+urllib3==1.26.10
+cloudpickle==2.1.0
+pandas==1.4.3
+gym==0.21.0
+h5py==3.7.0
+stable-baselines3==1.6.0
+pybullet==3.2.5
+
+

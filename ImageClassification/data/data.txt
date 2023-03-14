@@ -1,0 +1,1 @@
+Data (CIFAR100) will be downloaded automatically in this folder. 
