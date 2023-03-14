@@ -14,31 +14,31 @@ A. Setup Environment and Packages:
 conda create --name sgpenv python=3.9.13
 ```
 2. Install pytorch and related packeages (following command installs pytorch 1.11.0, torchvision 0.12.0, cudatoolkit 11.3.1): 
-
+```
 conda install pytorch torchvision cudatoolkit=11.3 -c pytorch
-
+```
 3. Install other required packages:
-
+```
 pip install -r requirements.txt
-
+```
 4. Install Gym Atari : 
-
+```
 conda install -c conda-forge gym-atari
+```
 
 
-
-After successful installations for Continual Image Classification go to 'ImageClassification' folder and run: 
-
+B. After successful installations for Continual Image Classification go to 'ImageClassification' folder and run: 
+```
 source run_experiments.sh 
-
-above command will run Split CIFAR100 experiment by default, CIFAR-100 Superclass can also be selected in "run_experiments.sh" file. 
+```
+This command will run Split CIFAR100 experiment by default, CIFAR-100 Superclass can also be selected in "run_experiments.sh" file. 
 
 
 For Continual Reinforcement learning tasks go to 'RL_Experiments' folder and run: 
-
+```
 source run_rl_agents.sh 0
-
-above command will run SGP experiment by default, other methods (GPM,BLIP,EWC,FT) can be run by selecting options in "run_rl_agents.sh" file. 
+```
+This command will run SGP experiment by default, other methods (GPM,BLIP,EWC,FT) can be run by selecting options in "run_rl_agents.sh" file. 
 
 
 ## Abstract 
@@ -48,18 +48,12 @@ In neural networks, continual learning results in gradient interference among se
 ## Citation
 ```
 @article{https://doi.org/10.48550/arxiv.2302.01386,
-  doi = {10.48550/ARXIV.2302.01386},
-  
-  url = {https://arxiv.org/abs/2302.01386},
-  
-  author = {Saha, Gobinda and Roy, Kaushik},
-  
-  title = {Continual Learning with Scaled Gradient Projection},
-  
-  publisher = {arXiv},
-  
-  year = {2023},
-  
+  doi = {10.48550/ARXIV.2302.01386},  
+  url = {https://arxiv.org/abs/2302.01386},  
+  author = {Saha, Gobinda and Roy, Kaushik},  
+  title = {Continual Learning with Scaled Gradient Projection},  
+  publisher = {arXiv},  
+  year = {2023},  
 }
 
 ```
