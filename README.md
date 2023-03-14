@@ -10,9 +10,9 @@ Official Code Repository for "Continual Learning with Scaled Gradient Projection
 A. Setup Environment and Packages: 
 
 1. Create a conda environment and activate it:
-
+```
 conda create --name sgpenv python=3.9.13
-
+```
 2. Install pytorch and related packeages (following command installs pytorch 1.11.0, torchvision 0.12.0, cudatoolkit 11.3.1): 
 
 conda install pytorch torchvision cudatoolkit=11.3 -c pytorch
