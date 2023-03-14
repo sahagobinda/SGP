@@ -47,7 +47,9 @@ This command will run SGP experiment by default, other methods (GPM,BLIP,EWC,FT)
 
 
 ## Citation
+
 ```
+
 @article{https://doi.org/10.48550/arxiv.2302.01386,
   doi = {10.48550/ARXIV.2302.01386},  
   url = {https://arxiv.org/abs/2302.01386},  
@@ -58,3 +60,5 @@ This command will run SGP experiment by default, other methods (GPM,BLIP,EWC,FT)
 }
 
 ```
+
+
