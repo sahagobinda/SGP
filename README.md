@@ -1,6 +1,6 @@
 # SGP
  
-Official Code Repository for "Continual Learning with Scaled Gradient Projection", Proceedings of the AAAI Conference on Artificial Intelligence, 37(8), 9677-9685. 
+Official Code Repository for "Continual Learning with Scaled Gradient Projection", Proceedings of the AAAI Conference on Artificial Intelligence, 37(8), 9677-9685, 2023. 
 
 [[Arxiv Paper]](https://arxiv.org/abs/2302.01386) [[AAAI Proceeding]](https://ojs.aaai.org/index.php/AAAI/article/view/26157)
  
