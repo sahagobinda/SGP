@@ -51,18 +51,17 @@ This command will run SGP experiment by default, other methods (GPM,BLIP,EWC,FT)
 ## Citation
 
 ```
-
 @article{Saha_Roy_2023, title={Continual Learning with Scaled Gradient Projection},
-volume={37},
-url={https://ojs.aaai.org/index.php/AAAI/article/view/26157},
-DOI={10.1609/aaai.v37i8.26157},
-number={8},
-journal={Proceedings of the AAAI Conference on Artificial Intelligence},
-author={Saha, Gobinda and Roy, Kaushik},
-year={2023},
-month={Jun.},
-pages={9677-9685} }
-
+  volume={37},
+  url={https://ojs.aaai.org/index.php/AAAI/article/view/26157},
+  DOI={10.1609/aaai.v37i8.26157},
+  number={8},
+  journal={Proceedings of the AAAI Conference on Artificial Intelligence},
+  author={Saha, Gobinda and Roy, Kaushik},
+  year={2023},
+  month={Jun.},
+  pages={9677-9685}
+}
 
 @article{https://doi.org/10.48550/arxiv.2302.01386,
   doi = {10.48550/ARXIV.2302.01386},  
